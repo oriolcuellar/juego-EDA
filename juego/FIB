@@ -1,0 +1,14 @@
+#!/bin/bash
+
+
+echo $1
+
+i=0
+while [ $i -lt $1 ]
+do
+	
+	./Game oriolcuella7 oriolcuella7 oriolcuella8 oriolcuella7 -s $i < default.cnf > default$i.res
+	i=`expr $i + 1` 
+
+done
+exit
