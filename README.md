@@ -16,6 +16,7 @@
     ./Game OriolCuellar OriolCuellar OriolCuellar OriolCuellar -s 1 < default.cnf > default.res
     
   1000 partidas:
+  
      en el fichero FIB cambiar la linea de partida
      
      para ver las estadisticas:
