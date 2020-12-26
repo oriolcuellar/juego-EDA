@@ -5,12 +5,14 @@
   (compila todos los archivos .cc que comiencen con AI.
   
 # jugar
+
   - los ficheros .cc se llaman AIOriolCuellar.cc AI...
   - el numero despues de -s es la semilla con la que se crea la partida
   - default.cnf es el mapa que se utiliza
   - default.res es donde se guarda la ejecucion
   
-  1 partida:    
+  1 partida:  
+  
     ./Game OriolCuellar OriolCuellar OriolCuellar OriolCuellar -s 1 < default.cnf > default.res
     
   1000 partidas:
