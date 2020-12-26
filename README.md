@@ -26,3 +26,6 @@
   carpeta viewer -> abir viewer.html -> abrir el .res (partida)
 
 
+
+
+<img src="imagen/purge.png">
