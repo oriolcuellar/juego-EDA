@@ -699,6 +699,12 @@ bool escondite(vector < vector <casilla> >  &m_unico, int id, vector < vector <c
     int pos_vag=-1;
     vector <pair <bool, map < long double, accion, greater<long double> > > > acciones_globales;
     vector <int> vb=builders(me());
+	  
+	  
+    //builders
+
+    //huyen para distraer, construyen para molestar y cogen monedas
+
     for (int b : vb){
       if (citizen(b).life!=0){
       pos_vag++;
@@ -784,9 +790,10 @@ bool escondite(vector < vector <casilla> >  &m_unico, int id, vector < vector <c
 
     }
 
-    //empieza warriors
+    // warriors
       
       vector <int> vw=warriors(me());
+	  
       for (int w :  vw){//recorro warrior....................................................................
         if (citizen(w).life!=0){
           pos_vag++;
@@ -883,10 +890,6 @@ bool escondite(vector < vector <casilla> >  &m_unico, int id, vector < vector <c
       }
 
 
-
-    //builders
-
-    //huyen para distraer, construyen para molestar y cogen monedas
 
 
 
