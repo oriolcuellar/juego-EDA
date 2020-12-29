@@ -9,7 +9,7 @@
   - los ficheros .cc se llaman AIOriolCuellar.cc AI...
   - el numero despues de -s es la semilla con la que se crea la partida
   - default.cnf es el mapa que se utiliza
-  - default.res es donde se guarda la ejecucion
+  - default.res es el fichero donde se guarda la ejecucion
   
   ## 1 partida: 
   
