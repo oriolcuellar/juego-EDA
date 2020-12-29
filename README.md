@@ -4,7 +4,7 @@
   make all
   (compila todos los archivos .cc que comiencen con AI.
   
-# jugar
+# Jugar
 
   - los ficheros .cc se llaman AIOriolCuellar.cc AI...
   - el numero despues de -s es la semilla con la que se crea la partida
@@ -25,7 +25,7 @@
       - ejecutar python3 juntar.py (juntara los resultados de las 1000 partidas en un fichero)
       - abrir aa_grande.txt y pegar en el documento excel. Las estadisticas son de los jugadores en pos 2 y 3
      
-# ver partidas
+# Ver partidas
   carpeta viewer -> abir viewer.html -> abrir el .res (partida)
 
 
