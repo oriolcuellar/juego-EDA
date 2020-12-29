@@ -15,6 +15,8 @@
   
     ./Game OriolCuellar OriolCuellar OriolCuellar OriolCuellar -s 1 < default.cnf > default.res
     
+    Los 4 jugadores son la misma version
+    
   ## 1000 partidas
   
      en el fichero FIB cambiar la linea de partida
