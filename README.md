@@ -11,11 +11,11 @@
   - default.cnf es el mapa que se utiliza
   - default.res es donde se guarda la ejecucion
   
-  1 partida:  
+  ## 1 partida: 
   
     ./Game OriolCuellar OriolCuellar OriolCuellar OriolCuellar -s 1 < default.cnf > default.res
     
-  1000 partidas:
+  ## 1000 partidas
   
      en el fichero FIB cambiar la linea de partida
      
