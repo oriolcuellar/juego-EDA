@@ -1,4 +1,4 @@
-# juego-EDA
+# juego asignatura EDA
 
 # Compilar
   make all
